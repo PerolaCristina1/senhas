@@ -125,8 +125,18 @@ body{
 }
 
 .fraca {
-    height: 25%;
+    width: 25%;
     background-color: #e71b32;
+}
+
+.media {
+    width: 50%;
+    background-color: #faf408;
+}
+
+.forte {
+    width: 100%;
+    background-color: #00ff85;
 }
 
 @media screen and (min-width: 768px) {
